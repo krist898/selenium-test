@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="SeleniumDocsSuite">
+    <test name="NavegacionDocumentacionSelenium">
+        <classes>
+            <class name="com.ejercicio.SeleniumDocumentationTest"/>
+        </classes>
+    </test>
+</suite>
